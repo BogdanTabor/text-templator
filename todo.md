@@ -1,5 +1,11 @@
 TODO
 
+- if use server
+- how to create simple app for local usage
+  ? - use webpack
+- where get data templates for app
+  ? - use JSON parser from google/ms doc
+
 - func render nested textareas with own titles if templates has it
 - func add 3sec message "copied" to copyToClipboard
 - func add button to hide open vacancy
@@ -10,24 +16,19 @@ TODO
   X add styles to css as text in ``
   X make class with nesessery style and aply it to element
 
-- if use server
-- how to create simple app for local usage
-- where get data templates for app
-  ? - use JSON parser from google/ms doc
-
 - func зберігати зміни в textarea
   ? - use local server to write data to JSON
   ? - перезаписувати файл з текстом шаблону
   ? - використати форму та запити
   X - перезаписувати кожного разу веб-сторінку повністю
 
-- func автоматичне зберігання при зміні тексту
 - func зберігати історію змін шаблона
+  ? - func автоматичне зберігання при зміні тексту
+  ? - func налаштування частоти зберігання
+
 - func додати нову вакансію, шаблон та текст до нього
 
-- style підсвічувати активну вкладку
-- style додати пусту область під останнім елементом
-- func налаштування частоти зберігання
+? - style підсвічувати активну вкладку
 
 ! - TEST with more data JSON
 
